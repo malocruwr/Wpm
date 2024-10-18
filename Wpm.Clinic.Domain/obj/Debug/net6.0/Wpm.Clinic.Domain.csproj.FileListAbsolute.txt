@@ -1,0 +1,15 @@
+C:\repo\Wpm\Wpm.Clinic.Domain\bin\Debug\net6.0\Wpm.Clinic.Domain.deps.json
+C:\repo\Wpm\Wpm.Clinic.Domain\bin\Debug\net6.0\Wpm.Clinic.Domain.dll
+C:\repo\Wpm\Wpm.Clinic.Domain\bin\Debug\net6.0\Wpm.Clinic.Domain.pdb
+C:\repo\Wpm\Wpm.Clinic.Domain\bin\Debug\net6.0\Wpm.SharedKernel.dll
+C:\repo\Wpm\Wpm.Clinic.Domain\bin\Debug\net6.0\Wpm.SharedKernel.pdb
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.csproj.AssemblyReference.cache
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.AssemblyInfoInputs.cache
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.AssemblyInfo.cs
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.csproj.CoreCompileInputs.cache
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.csproj.CopyComplete
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.dll
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\refint\Wpm.Clinic.Domain.dll
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\Wpm.Clinic.Domain.pdb
+C:\repo\Wpm\Wpm.Clinic.Domain\obj\Debug\net6.0\ref\Wpm.Clinic.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zEcv/MbSzXOnc1+gdbcTdoO+8ujTY2HyRSR2F1MLpHg=",
+  "Source": "Wpm.Clinic.Api",
+  "BasePath": "_content/Wpm.Clinic.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

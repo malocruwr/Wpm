@@ -1,0 +1,12 @@
+C:\repo\Wpm\Wpm.SharedKernel\bin\Debug\net6.0\Wpm.SharedKernel.deps.json
+C:\repo\Wpm\Wpm.SharedKernel\bin\Debug\net6.0\Wpm.SharedKernel.dll
+C:\repo\Wpm\Wpm.SharedKernel\bin\Debug\net6.0\Wpm.SharedKernel.pdb
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\Wpm.SharedKernel.csproj.AssemblyReference.cache
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\Wpm.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\Wpm.SharedKernel.AssemblyInfoInputs.cache
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\Wpm.SharedKernel.AssemblyInfo.cs
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\Wpm.SharedKernel.csproj.CoreCompileInputs.cache
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\Wpm.SharedKernel.dll
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\refint\Wpm.SharedKernel.dll
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\Wpm.SharedKernel.pdb
+C:\repo\Wpm\Wpm.SharedKernel\obj\Debug\net6.0\ref\Wpm.SharedKernel.dll

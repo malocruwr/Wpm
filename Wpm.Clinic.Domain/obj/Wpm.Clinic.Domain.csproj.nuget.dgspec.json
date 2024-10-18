@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repo\\Wpm\\Wpm.Clinic.Domain\\Wpm.Clinic.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\repo\\Wpm\\Wpm.Clinic.Domain\\Wpm.Clinic.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repo\\Wpm\\Wpm.Clinic.Domain\\Wpm.Clinic.Domain.csproj",
+        "projectName": "Wpm.Clinic.Domain",
+        "projectPath": "C:\\repo\\Wpm\\Wpm.Clinic.Domain\\Wpm.Clinic.Domain.csproj",
+        "packagesPath": "C:\\Users\\manuel.lopezc\\.nuget\\packages\\",
+        "outputPath": "C:\\repo\\Wpm\\Wpm.Clinic.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manuel.lopezc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\repo\\Wpm\\Wpm.SharedKernel\\Wpm.SharedKernel.csproj": {
+                "projectPath": "C:\\repo\\Wpm\\Wpm.SharedKernel\\Wpm.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.427\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\repo\\Wpm\\Wpm.SharedKernel\\Wpm.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repo\\Wpm\\Wpm.SharedKernel\\Wpm.SharedKernel.csproj",
+        "projectName": "Wpm.SharedKernel",
+        "projectPath": "C:\\repo\\Wpm\\Wpm.SharedKernel\\Wpm.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\manuel.lopezc\\.nuget\\packages\\",
+        "outputPath": "C:\\repo\\Wpm\\Wpm.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manuel.lopezc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.427\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\repo\Wpm\Wpm.Management.Domain\bin\Debug\net6.0\Wpm.Management.Domain.deps.json
+C:\repo\Wpm\Wpm.Management.Domain\bin\Debug\net6.0\Wpm.Management.Domain.dll
+C:\repo\Wpm\Wpm.Management.Domain\bin\Debug\net6.0\Wpm.Management.Domain.pdb
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.csproj.AssemblyReference.cache
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.AssemblyInfoInputs.cache
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.AssemblyInfo.cs
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.csproj.CoreCompileInputs.cache
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.dll
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\refint\Wpm.Management.Domain.dll
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.pdb
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\ref\Wpm.Management.Domain.dll
+C:\repo\Wpm\Wpm.Management.Domain\bin\Debug\net6.0\Wpm.SharedKernel.dll
+C:\repo\Wpm\Wpm.Management.Domain\bin\Debug\net6.0\Wpm.SharedKernel.pdb
+C:\repo\Wpm\Wpm.Management.Domain\obj\Debug\net6.0\Wpm.Management.Domain.csproj.CopyComplete

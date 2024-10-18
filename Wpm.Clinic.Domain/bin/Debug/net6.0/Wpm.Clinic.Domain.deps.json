@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wpm.Clinic.Domain/1.0.0": {
+        "dependencies": {
+          "Wpm.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "Wpm.Clinic.Domain.dll": {}
+        }
+      },
+      "Wpm.SharedKernel/1.0.0": {
+        "runtime": {
+          "Wpm.SharedKernel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpm.Clinic.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wpm.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
